@@ -1,6 +1,8 @@
 
-<img src="Imagens/eteczl.png" alt="Texto alternativo" width="100" height="100">
-<img src="Imagens/eteczl.png" alt="Texto alternativo" width="100" height="100">
+<div style="display: flex; justify-content: space-between;">
+  <img src="Imagens/eteczl.png" alt="Texto alternativo" width="50" height="50">
+  <img src="Imagens/ibm.png" alt="Texto alternativo" width="50" height="50">
+</div>
 
 # Portfólio 2024 - Curso de Desenvolvimento de Sistemas (3DS)
 
